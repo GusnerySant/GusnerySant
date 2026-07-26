@@ -1,7 +1,7 @@
 # 👨‍💻 Gustavo Nery
 **`Desenvolvedor Fullstack`**
 
-Me chamo Gustavo Nery dos Santos, tenho 20 anos e sou natural de Sergipe. Concluí o ensino médio no CEMJSP, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação no IFS - Campus Lagarto. Sou fascinado por tecnologia e regras de negócio. Acompanhe mais da minha trajetória e experiências em meu "[Linkedin](https://www.linkedin.com/in/gustavo-nery-a07018384/)"!
+Me chamo Gustavo Nery dos Santos, tenho 20 anos e sou natural de Sergipe. Concluí o ensino médio no CEMJSP, juntamente de um curso técnico em informática na Prepara Cursos - Lagarto. Atualmente, estou cursando Sistemas de Informação no IFS - Campus Lagarto. Sou fascinado por tecnologia e regras de negócio. Acompanhe mais da minha trajetória e experiências em meu "[Linkedin](https://www.linkedin.com/in/gustavo-nery-a07018384/)"!
 
 <p align="left">
         <a href="https://github.com/GusnerySant?tab=repositories&sort=stargazers">
